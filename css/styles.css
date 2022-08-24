@@ -186,6 +186,7 @@ img {
 
 .section-description {
   background-color: var(--white);
+  padding-bottom: 0;
 }
 
 .description-list {
